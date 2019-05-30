@@ -1,0 +1,7 @@
+1.Sa se scrie un program care sorteaza concurent un vector de numere intregi generate aleator intr-un interval oarecare, folosind doua metode de sortare diferite (BubbleSort si QuickSort). Cele doua metode de sortare vor fi implementate ca fire de executie pentru a putea fi executate concurent. Pe parcursul sortarii se vor afisa in permanenta vectorii partial sortati pentru fiecare metoda. Programul va avea interfata grafica. 
+Dati o reprezentare grafica sugestiva vectorilor in care fiecare element sa fie reprezentat printr-o linie de lungime egala cu valoarea elementului.
+
+
+2.Sa se scrie un program care permite afisarea de imagini. Imaginile vor fi alese din fisiere aflate local prin intermediul unui dialog cu utilizatorul. La afisarea unei imagini se va specifica daca imaginea va fi scalata la dimensiunile suprafetei de afisare sau va fi afisata integral.
+Folositi clasa FileDialog pentru alegerea unui fisier imagine. 
+Incapsulati suprafata de desenare intr-un obiect de tip ScrollPane pentru a putea afisa imagini mai mari decat dimensiunile suprafetei de desenare fara a face scalarea imaginii.
