@@ -1,0 +1,19 @@
+1.Scrieti o aplicatie care sa gestioneze angajatii unei companii. Informatiile care vor trebui memorate pentru fiecare angajat sunt: cod, nume, salar, data angajarii, adresa, telefon. Programul trebuie sa permita:
+adaugarea unui nou angajat
+modificarea informatiilor despre un angajat existent
+stergerea unui angajat
+listarea angajatilor curenti
+cautarea unei persoane dupa nume sau cod
+
+Folositi o clasa pentru descrierea "obiectelor" de tip angajat. 
+
+2.Scrieti un program care sa simuleze un 'shell' pentru lucrul cu fisiere. Aplicatia trebuie sa permita:
+listarea fisierelor dintr-un director sau directorul curent
+listarea continutului unui fisier
+schimbarea directorului curent
+crearea unui nou director
+stergerea/redenumirea unui fisier/director
+concatenarea a doua sau mai multor fisiere
+aflarea informatiilor despre un fisier/director
+
+Comenzile vor fi citite de la tastatura impreuna cu argumentele lor sau vor fi alese printr-un meniu.
