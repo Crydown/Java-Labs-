@@ -1,0 +1,9 @@
+1.Implement the class MyStack, which will simulate a LIFO-list of objects (stack). The class must have the following methods:
+empty : tests if this stack is empty
+peek : looks at the object at the top of this stack without removing it from the stack
+pop : removes the object at the top of this stack and returns that object as the value of this function.
+push : pushes an item onto the top of this stack
+search : returns the 1-based position where an object is on this stack (the distance from the top)
+print : prints the stack
+
+2.Define and implement the class Complex, for working with complex numers. The class will contain the usual methods.
