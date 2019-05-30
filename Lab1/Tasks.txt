@@ -1,0 +1,14 @@
+1. Sa se scrie o aplicatie Java care afiseaza numerele de la 0 la 255 si caracterele UNICODE corespunzatoare. Numerele se vor afisa pe linii separate cu o pauza de t milisecunde intre doua afisari ( t va fi primit ca argument de la linia de comanda, in caz contrar va fi considerat ca având valoarea implicita 100). La fiecare 21 de linii se va opri afisarea si se va afisa mesajul : "Apasati Enter..." 
+
+Pentru a face o pauza in executia procesului curent se va folosi metoda sleep din clasa Thread
+Pentru a opri momentan executia folositi secventa:
+	System.in.read();
+	System.in.skip(System.in.available());
+
+
+2. Scrieti un program Java care rezolva ecuatia de gradul 2 cu coeficientii a, b, c primiti ca argumente de la linia de comanda. Programul trebuie sa trateze toate situatiile care pot aparea. 
+
+3. Sa se scrie o aplicatie Java care :
+genereaza un vector de n numere intregi cuprinse in intervalul [a,b], unde a,b si n sunt primite ca argumente de la linia de comanda
+sorteaza vectorul generat folosind, pe rand, algoritmul BubbleSort si metoda sort din clasa Arrays.
+afiseaza timpii estimativi de executie pentru fiecare din procedee
