@@ -1,0 +1,5 @@
+1.Sa se implementeze clasa ArboreBinar care sa permita crearea, modificarea si parcurgerea(explorarea) unui arbore binar. La parcurgerea arborelui, in fiecare nod trebuie sa se execute prelucrarea informatiei din el prin intermediul unei functii primite ca parametru. (exemple de functii: afisarea informatiei din nod in diferite formate) 
+
+
+2.Scrieti un program care cauta intr-un anumit director si, recursiv, in toate subdirectoarele sale fisiere cu extensia .java care contin un anumit text. Directorul in care se face cautarea si textul cautat vor fi primite ca argumente de la linia de comanda sau citite de la tastatura. 
+Pentru aflarea fisierelor dintr-un director care au o anumita extensie folositi metoda list din clasa File si interfata FilenameFilter.
