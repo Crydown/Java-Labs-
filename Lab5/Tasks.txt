@@ -1,0 +1,7 @@
+1. Sa se scrie un program care citeste de la tastatura doua multimi de numere întregi si afiseaza reuniunea, intersectia, diferenta simetrica si produsul cartezian pentru multimile respective. 
+Folositi clasa HashSet pentru reprezentarea multimilor. 
+
+
+2. Scrieti o aplicatie care gestioneaza un mini-dictionar român - englez. Programul trebuie sa permita adaugarea, stergerea de definitii, salvarea dictionarului pe disc, respectiv incarcarea acestuia in memorie.  
+Folositi clasa HashMap pentru reprezentarea dictionarului. 
+Folositi serializarea pentru salvarea/restaurarea dictionarului.
